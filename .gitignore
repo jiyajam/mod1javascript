@@ -1,0 +1,12 @@
+# Ignore JetBrains IDE files
+.idea/
+
+# Ignore Node.js modules (if using Node.js)
+node_modules/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Thumbs.db (Windows thumbnail cache)
+Thumbs.db
+
